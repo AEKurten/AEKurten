@@ -1,8 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
 I am Aubrey from South Africa, a front-end developer working towards becoming a well-rounded full-stack developer by enhancing my back-end skills.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEKurten)](https://github.com/anuraghazra/github-readme-stats)
+## Skills and Experience
+* ⚛️ React
+* 📱 React Native
+* 🍃 Mongo DB
+* 💻 HTML, CSS, JS
 
 <!--
 **AEKurten/AEKurten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
